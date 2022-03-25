@@ -6,3 +6,4 @@ decimal binary converter made in python
 4
 5
 6
+7
