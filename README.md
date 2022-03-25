@@ -5,3 +5,4 @@ decimal binary converter made in python
 3
 4
 5
+6
