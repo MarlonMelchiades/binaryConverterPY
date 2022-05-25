@@ -4,3 +4,4 @@ Conversor binário decimal feito em python!
 3
 4
 5
+6
