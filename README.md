@@ -1,2 +1,2 @@
-# binaryConverterPY
-decimal binary converter made in python
+# Conversor binário PYTHON
+Conversor binário decimal feito em python!
